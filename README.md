@@ -4,8 +4,15 @@
 
 ---
 
-![ViewDeck Dashboard - Main](https://github.com/user-attachments/assets/f4840205-e1c7-4b8c-96af-915236e2a440)
-![ViewDeck Dashboard - Detail](https://github.com/user-attachments/assets/b5441040-e75f-45b2-a77a-218710bb86d9)
+<img src="https://github.com/user-attachments/assets/f4840205-e1c7-4b8c-96af-915236e2a440" alt="ViewDeck Dashboard - Main" width="100%">
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b5441040-e75f-45b2-a77a-218710bb86d9" alt="ViewDeck Detail View" width="270"></td>
+    <td><img src="https://github.com/user-attachments/assets/ddca35d8-4b67-4b65-b7d1-121b87fba710" alt="ViewDeck Theme 1" width="270"></td>
+    <td><img src="https://github.com/user-attachments/assets/f856dcb1-892a-4598-a867-b58f2c53d09a" alt="ViewDeck Theme 2" width="270"></td>
+  </tr>
+</table>
 
 ---
 
