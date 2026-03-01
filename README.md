@@ -5,8 +5,8 @@
 ---
 
 <!-- Replace the two URLs below with your own screenshots once deployed -->
-![ViewDeck Dashboard - Main](https://via.placeholder.com/1200x675/1a2a4a/ffffff?text=ViewDeck+Screenshot+1+%E2%80%94+Replace+This+URL)
-![ViewDeck Dashboard - Detail](https://via.placeholder.com/1200x675/0d0d0d/ffffff?text=ViewDeck+Screenshot+2+%E2%80%94+Replace+This+URL)
+![ViewDeck Dashboard - Main]([https://via.placeholder.com/1200x675/1a2a4a/ffffff?text=ViewDeck+Screenshot+1+%E2%80%94+Replace+This+URL](https://github.com/user-attachments/assets/fa2ecc68-d375-441d-91d0-a5ad5049d5bf))
+![ViewDeck Dashboard - Detail]([https://via.placeholder.com/1200x675/0d0d0d/ffffff?text=ViewDeck+Screenshot+2+%E2%80%94+Replace+This+URL](https://github.com/user-attachments/assets/b5441040-e75f-45b2-a77a-218710bb86d9))
 
 ---
 
