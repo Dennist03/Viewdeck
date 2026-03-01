@@ -4,7 +4,7 @@
 
 ---
 
-![ViewDeck Dashboard - Main](https://github.com/user-attachments/assets/fa2ecc68-d375-441d-91d0-a5ad5049d5bf)
+![ViewDeck Dashboard - Main](https://github.com/user-attachments/assets/f4840205-e1c7-4b8c-96af-915236e2a440)
 ![ViewDeck Dashboard - Detail](https://github.com/user-attachments/assets/b5441040-e75f-45b2-a77a-218710bb86d9)
 
 ---
