@@ -64,7 +64,7 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Dennist30/Viewdeck.git
+git clone https://github.com/Dennist03/Viewdeck.git
 cd Viewdeck
 ```
 
@@ -187,4 +187,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 
-[MIT](LICENSE) © [Dennist30](https://github.com/Dennist30)
+[MIT](LICENSE) © [Dennist03](https://github.com/Dennist03)
