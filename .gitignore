@@ -1,0 +1,31 @@
+# ─────────────────────────────────────────────
+#  ViewDeck — .gitignore
+# ─────────────────────────────────────────────
+
+# API keys — NEVER commit this file
+config.js
+
+# Backup snapshots — local only
+Backups/
+
+# Original draft readme (replaced by README.md)
+readme.dm
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
